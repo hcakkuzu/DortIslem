@@ -1,0 +1,12 @@
+C:\Users\Hcakkuzu\DortIslem\DortIslem\bin\Debug\DortIslem.exe.config
+C:\Users\Hcakkuzu\DortIslem\DortIslem\bin\Debug\DortIslem.exe
+C:\Users\Hcakkuzu\DortIslem\DortIslem\bin\Debug\DortIslem.pdb
+C:\Users\Hcakkuzu\DortIslem\DortIslem\obj\Debug\DortIslem.anaMenu.resources
+C:\Users\Hcakkuzu\DortIslem\DortIslem\obj\Debug\DortIslem.oyun.resources
+C:\Users\Hcakkuzu\DortIslem\DortIslem\obj\Debug\DortIslem.Properties.Resources.resources
+C:\Users\Hcakkuzu\DortIslem\DortIslem\obj\Debug\DortIslem.skorlar.resources
+C:\Users\Hcakkuzu\DortIslem\DortIslem\obj\Debug\DortIslem.sonEkran.resources
+C:\Users\Hcakkuzu\DortIslem\DortIslem\obj\Debug\DortIslem.yeniSoru.resources
+C:\Users\Hcakkuzu\DortIslem\DortIslem\obj\Debug\DortIslem.csproj.GenerateResource.Cache
+C:\Users\Hcakkuzu\DortIslem\DortIslem\obj\Debug\DortIslem.exe
+C:\Users\Hcakkuzu\DortIslem\DortIslem\obj\Debug\DortIslem.pdb
